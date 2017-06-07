@@ -1,0 +1,51 @@
+
+.prof-box {
+	width: 450px;
+	height: 470px;
+/*	background: rgba(102,102,153,.8);*/
+	background: rgba(0,0,0,.6);
+	padding: 40px;
+	color: white;
+	margin: 0 auto;
+	margin-top: 140px;
+	text-align: center;
+}
+
+html { 
+  background: url(pictures/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Arvo', serif;
+}
+
+.prof-picture{
+	width: 200px;
+	height: 200px;
+	display: block;
+	margin: 0 auto;
+	border-radius: 50%; 
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 5px;
+	font-size: 48px;
+}
+
+.social-icons {
+	font-size: 40px;
+	word-spacing: 30px;
+	
+
+}
+
+.social-link{
+	color: white;
+	
+}
+
+
+
+
